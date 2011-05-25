@@ -1,0 +1,1043 @@
+THowEvil
+v7
+r0
+t306245594.069960
+cCheck dependencies
+cProcessInfoPlistFile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Info.plist HowEvil-Info.plist
+cCompileXIB /Users/da/Downloads/HowEvil/MainWindow.xib
+cCompileXIB /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
+cCpResource build/Debug-iphonesimulator/HowEvil.app/face.png face.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png 84-lightbulb.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png 84-lightbulb.png
+cCompileXIB /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
+cCompileXIB /Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
+cCpResource build/Debug-iphonesimulator/HowEvil.app/adolf_hitler.png adolf_hitler.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/charles_manson.png charles_manson.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/josef_stalin.png josef_stalin.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/ted_bundy.png ted_bundy.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/gaddafi.png gaddafi.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/robert_mugabe.png robert_mugabe.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/saddam_hussein.png saddam_hussein.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/kim_jong_il.png kim_jong_il.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/osama_bin_laden.png osama_bin_laden.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/hans_reiser.png hans_reiser.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/shoko_asahara.png shoko_asahara.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/Icon@2x.png Icon@2x.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/Icon-72.png Icon-72.png
+cCompileXIB /Users/da/Downloads/HowEvil/HelpViewController.xib
+cCpResource build/Debug-iphonesimulator/HowEvil.app/face@2x.png face@2x.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/fireback.png fireback.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/fireback@2x.png fireback@2x.png
+cCpResource build/Debug-iphonesimulator/HowEvil.app/84-lightbulb@2x.png 84-lightbulb@2x.png
+cProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/main.o /Users/da/Downloads/HowEvil/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvilAppDelegate.o /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/ImageEditingViewController.o /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/XFFaceView.o /Users/da/Downloads/HowEvil/Classes/XFFaceView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/MGTouchView.o /Users/da/Downloads/HowEvil/Classes/MGTouchView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSString+Slice.o /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/UIImage+crop+resize.o /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/AnalyzeViewController.o /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/WaitViewController.o /Users/da/Downloads/HowEvil/Classes/WaitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HelpViewController.o /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSDataAdditions.o /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil normal i386
+cGenerateDSYMFile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app.dSYM /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil
+cTouch /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C0E22130000000000000132
+t1275994643
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Users/da/Downloads/HowEvil/84-lightbulb.png
+c000000004A3E20E2000000000000011C
+t1245585634
+s284
+
+N/Users/da/Downloads/HowEvil/84-lightbulb@2x.png
+c000000004C59DB2C0000000000000251
+t1280957228
+s593
+
+N/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m
+c000000004C8E268600000000000006FE
+t1284384390
+s1790
+i"HelpViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.h
+c000000004C8E7B19000000000000025A
+t1284406041
+s602
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m
+c000000004C8E6FA40000000000001BF4
+t1284403108
+s7156
+i"AnalyzeViewController.h"
+i"UIImage+crop+resize.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
+c000000004C8FC7610000000000007594
+t1284491105
+s30100
+
+N/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.h
+c000000004C7D01DD00000000000001C3
+t1283260893
+s451
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m
+c000000004C8E2D620000000000000B2C
+t1284386146
+s2860
+i"HowEvilAppDelegate.h"
+
+N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.h
+c000000004C8E775900000000000002E1
+t1284405081
+s737
+i<UIKit/UIKit.h>
+i"XFFaceView.h"
+
+N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m
+c000000004C90A027000000000000279D
+t1284546599
+s10141
+i"ImageEditingViewController.h"
+i"XFFaceView.h"
+i"AnalyzeViewController.h"
+i"WaitViewController.h"
+i"HelpViewController.h"
+i<QuartzCore/QuartzCore.h>
+i"NSDataAdditions.h"
+
+N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
+c000000004C8FCC1B000000000000778F
+t1284492315
+s30607
+
+N/Users/da/Downloads/HowEvil/Classes/MGTouchView.h
+c000000004C8E81C4000000000000012A
+t1284407748
+s298
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/MGTouchView.m
+c000000004C7930960000000000001124
+t1283010710
+s4388
+i"MGTouchView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.h
+c000000004C8E82340000000000000337
+t1284407860
+s823
+i<Foundation/Foundation.h>
+
+N/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m
+c000000004C8E829F0000000000000629
+t1284407967
+s1577
+i"NSDataAdditions.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/da/Downloads/HowEvil/Classes/NSString+Slice.h
+c000000004C73ED98000000000000023A
+t1282665880
+s570
+i<Foundation/Foundation.h>
+
+N/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m
+c000000004C73EF700000000000000423
+t1282666352
+s1059
+i"NSString+Slice.h"
+
+N/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.h
+c000000004C73C11A0000000000000105
+t1282654490
+s261
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m
+c000000004C73F5A800000000000006FD
+t1282667944
+s1789
+i"UIImage+crop+resize.h"
+
+N/Users/da/Downloads/HowEvil/Classes/WaitViewController.h
+c000000004C8910FA00000000000001B6
+t1284051194
+s438
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/WaitViewController.m
+c000000004C8E5DAE0000000000000A8B
+t1284398510
+s2699
+i"WaitViewController.h"
+i"AnalyzeViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
+c000000004C8FCCE40000000000006DB5
+t1284492516
+s28085
+
+N/Users/da/Downloads/HowEvil/Classes/XFFaceView.h
+c000000004C8E80AF00000000000001BC
+t1284407471
+s444
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Classes/XFFaceView.m
+c000000004C8FB26C0000000000001802
+t1284485740
+s6146
+i"XFFaceView.h"
+i"UIImage+crop+resize.h"
+i"MGTouchView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/da/Downloads/HowEvil/HelpViewController.h
+c000000004C8E1C180000000000000135
+t1284381720
+s309
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/HelpViewController.xib
+c000000004C8FC77F0000000000005309
+t1284491135
+s21257
+
+N/Users/da/Downloads/HowEvil/HowEvil_Prefix.pch
+c000000004C8915EC000000000000015D
+t1284052460
+s349
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/Icon-72.png
+c000000004C8CBC9E00000000000025D3
+t1284291742
+s9683
+
+N/Users/da/Downloads/HowEvil/Icon.png
+c000000004C8FF0190000000000001DBA
+t1284501529
+s7610
+
+N/Users/da/Downloads/HowEvil/Icon@2x.png
+c000000004C8CB9960000000000004218
+t1284290966
+s16920
+
+N/Users/da/Downloads/HowEvil/MainWindow.xib
+c000000004C8FCFEA0000000000007389
+t1284493290
+s29577
+
+N/Users/da/Downloads/HowEvil/adolf_hitler.png
+c000000004C7D32BB0000000000033767
+t1283273403
+s210791
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app
+t1284552794
+s1020
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app.dSYM
+t1284552794
+s102
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png
+t1284552789
+s284
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/84-lightbulb@2x.png
+t1284552790
+s593
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/AnalyzeViewController.nib
+t1284552790
+s2605
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HelpViewController.nib
+t1284552791
+s1971
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil
+t1284552793
+s78820
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Icon-72.png
+t1284552790
+s9683
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Icon.png
+t1284552790
+s7610
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Icon@2x.png
+t1284552790
+s16920
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/ImageEditingViewController.nib
+t1284552789
+s1963
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Info.plist
+t1284552788
+s754
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/MainWindow.nib
+t1284552789
+s1580
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/PkgInfo
+t1284552788
+s8
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/WaitViewController.nib
+t1284552790
+s2087
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/adolf_hitler.png
+t1284552790
+s210791
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/charles_manson.png
+t1284552790
+s80696
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/face.png
+t1284552789
+s88381
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/face@2x.png
+t1284552790
+s210346
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/fireback.png
+t1284552790
+s86644
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/fireback@2x.png
+t1284552790
+s234225
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/gaddafi.png
+t1284552790
+s159422
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/hans_reiser.png
+t1284552790
+s304174
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/josef_stalin.png
+t1284552790
+s252867
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/kim_jong_il.png
+t1284552790
+s256871
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/osama_bin_laden.png
+t1284552790
+s236841
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/robert_mugabe.png
+t1284552790
+s476340
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/saddam_hussein.png
+t1284552790
+s166675
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/shoko_asahara.png
+t1284552790
+s147726
+
+N/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/ted_bundy.png
+t1284552790
+s197933
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/AnalyzeViewController.o
+t1284552793
+s61364
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HelpViewController.o
+t1284552793
+s40512
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvil.LinkFileList
+c000000004C90B8540000000000000547
+t1284552788
+s1351
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvilAppDelegate.o
+t1284552792
+s50908
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/ImageEditingViewController.o
+t1284552793
+s69096
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/MGTouchView.o
+t1284552793
+s51876
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSDataAdditions.o
+t1284552793
+s7456
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSString+Slice.o
+t1284552793
+s8076
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/UIImage+crop+resize.o
+t1284552793
+s9624
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/WaitViewController.o
+t1284552793
+s45036
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/XFFaceView.o
+t1284552793
+s57868
+
+N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/main.o
+t1284552792
+s6280
+
+N/Users/da/Downloads/HowEvil/charles_manson.png
+c000000004C7D35840000000000013B38
+t1283274116
+s80696
+
+N/Users/da/Downloads/HowEvil/face.png
+c000000004C8FBABF000000000001593D
+t1284487871
+s88381
+
+N/Users/da/Downloads/HowEvil/face@2x.png
+c000000004C8FBAAC00000000000335AA
+t1284487852
+s210346
+
+N/Users/da/Downloads/HowEvil/fireback.png
+c000000004C8FC4080000000000015274
+t1284490248
+s86644
+
+N/Users/da/Downloads/HowEvil/fireback@2x.png
+c000000004C8FC3E600000000000392F1
+t1284490214
+s234225
+
+N/Users/da/Downloads/HowEvil/gaddafi.png
+c000000004C83C21A0000000000026EBE
+t1283703322
+s159422
+
+N/Users/da/Downloads/HowEvil/hans_reiser.png
+c000000004C83C30A000000000004A42E
+t1283703562
+s304174
+
+N/Users/da/Downloads/HowEvil/josef_stalin.png
+c000000004C7D3655000000000003DBC3
+t1283274325
+s252867
+
+N/Users/da/Downloads/HowEvil/kim_jong_il.png
+c000000004C83C2A9000000000003EB67
+t1283703465
+s256871
+
+N/Users/da/Downloads/HowEvil/main.m
+c000000004C7D01DD0000000000000159
+t1283260893
+s345
+i<UIKit/UIKit.h>
+
+N/Users/da/Downloads/HowEvil/osama_bin_laden.png
+c000000004C83C2D50000000000039D29
+t1283703509
+s236841
+
+N/Users/da/Downloads/HowEvil/robert_mugabe.png
+c000000004C83C24900000000000744B4
+t1283703369
+s476340
+
+N/Users/da/Downloads/HowEvil/saddam_hussein.png
+c000000004C83C26B0000000000028B13
+t1283703403
+s166675
+
+N/Users/da/Downloads/HowEvil/shoko_asahara.png
+c000000004C83C327000000000002410E
+t1283703591
+s147726
+
+N/Users/da/Downloads/HowEvil/ted_bundy.png
+c000000004C83C1F9000000000003052D
+t1283703289
+s197933
+
+N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch.gch
+t1284552792
+s15215632
+
+N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-dartkraojektcdbkaxogcapedhee/HowEvil_Prefix.pch.gch
+t2
+s0
+
+NHowEvil-Info.plist
+c000000004C90B83A000000000000044C
+t1284552762
+s1100
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306245587#306245588#0(140"[WARN]Warning: Multiple build commands for output file /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png1(22@133"Warning: Multiple build commands for output file /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png306245588#18446744073709551615#0#0(1@0"0(0#1#0"8614014784#0"0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/AnalyzeViewController.o /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.397912
+e306245593.638220
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/AnalyzeViewController.o
+x/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m306245593#306245593#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m8613149248#1835"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/AnalyzeViewController.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HelpViewController.o /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.571944
+e306245593.715214
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HelpViewController.o
+x/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m306245593#306245593#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m8614869504#1832"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvilAppDelegate.o /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245592.784955
+e306245592.975608
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvilAppDelegate.o
+x/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m306245592#306245592#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m8614521984#1829"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvilAppDelegate.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/ImageEditingViewController.o /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245592.935403
+e306245593.223249
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/ImageEditingViewController.o
+x/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':
+o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@72"Compile /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306245592#306245593#0(899"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol3(22@49"'XFFaceView' may not respond to '-setFaceImage2:'306245593#123#128#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306245593#251#124#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#0"0(22@99"Class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol306245593#720#179#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#125#0#125#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m8611376032#1845"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/ImageEditingViewController.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/MGTouchView.o /Users/da/Downloads/HowEvil/Classes/MGTouchView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.183880
+e306245593.410103
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/MGTouchView.o
+x/Users/da/Downloads/HowEvil/Classes/MGTouchView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/da/Downloads/HowEvil/Classes/MGTouchView.m306245593#306245593#0(0"0(0#0#49"/Users/da/Downloads/HowEvil/Classes/MGTouchView.m8615236704#1815"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/MGTouchView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/MGTouchView.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSDataAdditions.o /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.638337
+e306245593.722216
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSDataAdditions.o
+x/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m306245593#306245593#0(0"0(0#0#53"/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m8614257344#1823"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSDataAdditions.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSString+Slice.o /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.223363
+e306245593.310799
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSString+Slice.o
+x/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m306245593#306245593#0(0"0(0#0#52"/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m8614834464#1821"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/NSString+Slice.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/UIImage+crop+resize.o /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.310909
+e306245593.397795
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/UIImage+crop+resize.o
+x/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m306245593#306245593#0(0"0(0#0#57"/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m8613817056#1831"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/UIImage+crop+resize.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/WaitViewController.o /Users/da/Downloads/HowEvil/Classes/WaitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245593.410218
+e306245593.571828
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/WaitViewController.o
+x/Users/da/Downloads/HowEvil/Classes/WaitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/WaitViewController.m306245593#306245593#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/WaitViewController.m8610259328#1829"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/WaitViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/WaitViewController.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/XFFaceView.o /Users/da/Downloads/HowEvil/Classes/XFFaceView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245592.975723
+e306245593.183658
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/XFFaceView.o
+x/Users/da/Downloads/HowEvil/Classes/XFFaceView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':
+o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found
+lSLF07#2@56"Compile /Users/da/Downloads/HowEvil/Classes/XFFaceView.m306245592#306245593#0(1109"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found5(22@45"No '-faceView:markersDidChange:' method found306245593#100#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306245593#208#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#0"0(22@45"No '-faceView:markersDidChange:' method found306245593#595#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#104#0#104#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306245593#797#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#129#0#129#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306245593#1000#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#152#0#152#0#19"no '*' method found0(0#0#48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m8609439360#1813"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/XFFaceView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/XFFaceView.o0#
+
+CCompileC build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/main.o /Users/da/Downloads/HowEvil/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245592.783028
+e306245592.935289
+r1
+xCompileC
+xbuild/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/main.o
+x/Users/da/Downloads/HowEvil/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/da/Downloads/HowEvil/main.m306245592#306245592#0(0"0(0#0#34"/Users/da/Downloads/HowEvil/main.m8614984128#1793"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/main.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
+s306245589.434379
+e306245590.403891
+r1
+xCompileXIB
+x/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
+lSLF07#2@44"CompileXIB Classes/AnalyzeViewController.xib306245589#306245590#0(0"0(0#0#61"/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib8614312064#567"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/AnalyzeViewController.nib /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
+s306245588.115994
+e306245589.719077
+r1
+xCompileXIB
+x/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
+lSLF07#2@49"CompileXIB Classes/ImageEditingViewController.xib306245588#306245589#0(0"0(0#0#66"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib8612417120#577"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/ImageEditingViewController.nib /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
+s306245589.719296
+e306245590.778713
+r1
+xCompileXIB
+x/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
+lSLF07#2@41"CompileXIB Classes/WaitViewController.xib306245589#306245590#0(0"0(0#0#58"/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib8611187360#561"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/WaitViewController.nib /Users/da/Downloads/HowEvil/Classes/WaitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/da/Downloads/HowEvil/HelpViewController.xib
+s306245590.598017
+e306245591.614905
+r1
+xCompileXIB
+x/Users/da/Downloads/HowEvil/HelpViewController.xib
+lSLF07#2@33"CompileXIB HelpViewController.xib306245590#306245591#0(0"0(0#0#50"/Users/da/Downloads/HowEvil/HelpViewController.xib8612860416#553"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HelpViewController.nib /Users/da/Downloads/HowEvil/HelpViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/da/Downloads/HowEvil/MainWindow.xib
+s306245588.099755
+e306245589.430698
+r1
+xCompileXIB
+x/Users/da/Downloads/HowEvil/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306245588#306245589#0(0"0(0#0#42"/Users/da/Downloads/HowEvil/MainWindow.xib8612739072#537"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/MainWindow.nib /Users/da/Downloads/HowEvil/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png 84-lightbulb.png
+s306245589.433630
+e306245589.540303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/84-lightbulb.png
+x84-lightbulb.png
+lSLF07#2@21"Copy 84-lightbulb.png306245589#306245589#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/84-lightbulb.png8614686880#427"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/84-lightbulb.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/84-lightbulb@2x.png 84-lightbulb@2x.png
+s306245590.786706
+e306245590.812751
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/84-lightbulb@2x.png
+x84-lightbulb@2x.png
+lSLF07#2@24"Copy 84-lightbulb@2x.png306245590#306245590#0(0"0(0#0#47"/Users/da/Downloads/HowEvil/84-lightbulb@2x.png8609758784#430"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/84-lightbulb@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/Icon-72.png Icon-72.png
+s306245590.591935
+e306245590.602742
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png306245590#306245590#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/Icon-72.png8613177152#422"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/Icon-72.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/Icon.png Icon.png
+s306245590.580061
+e306245590.597916
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png306245590#306245590#0(0"0(0#0#36"/Users/da/Downloads/HowEvil/Icon.png8613647552#419"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/Icon.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/Icon@2x.png Icon@2x.png
+s306245590.583811
+e306245590.591823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png306245590#306245590#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/Icon@2x.png8613373216#422"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/Icon@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/adolf_hitler.png adolf_hitler.png
+s306245590.403998
+e306245590.578445
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/adolf_hitler.png
+xadolf_hitler.png
+lSLF07#2@21"Copy adolf_hitler.png306245590#306245590#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/adolf_hitler.png8613045056#427"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/adolf_hitler.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/charles_manson.png charles_manson.png
+s306245590.405907
+e306245590.567762
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/charles_manson.png
+xcharles_manson.png
+lSLF07#2@23"Copy charles_manson.png306245590#306245590#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/charles_manson.png8615143200#429"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/charles_manson.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/face.png face.png
+s306245589.430798
+e306245589.561222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/face.png
+xface.png
+lSLF07#2@13"Copy face.png306245589#306245589#0(0"0(0#0#36"/Users/da/Downloads/HowEvil/face.png8615081024#419"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/face.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/face@2x.png face@2x.png
+s306245590.778825
+e306245590.824189
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/face@2x.png
+xface@2x.png
+lSLF07#2@16"Copy face@2x.png306245590#306245590#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/face@2x.png8610310272#422"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/face@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/fireback.png fireback.png
+s306245590.783035
+e306245590.826325
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/fireback.png
+xfireback.png
+lSLF07#2@17"Copy fireback.png306245590#306245590#0(0"0(0#0#40"/Users/da/Downloads/HowEvil/fireback.png8610242880#423"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/fireback.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/fireback@2x.png fireback@2x.png
+s306245590.784867
+e306245590.826497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/fireback@2x.png
+xfireback@2x.png
+lSLF07#2@20"Copy fireback@2x.png306245590#306245590#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/fireback@2x.png8609985888#426"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/fireback@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/gaddafi.png gaddafi.png
+s306245590.411498
+e306245590.573592
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/gaddafi.png
+xgaddafi.png
+lSLF07#2@16"Copy gaddafi.png306245590#306245590#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/gaddafi.png8610246656#422"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/gaddafi.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/hans_reiser.png hans_reiser.png
+s306245590.567862
+e306245590.611065
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/hans_reiser.png
+xhans_reiser.png
+lSLF07#2@20"Copy hans_reiser.png306245590#306245590#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/hans_reiser.png8614047360#426"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/hans_reiser.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/josef_stalin.png josef_stalin.png
+s306245590.407708
+e306245590.608897
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/josef_stalin.png
+xjosef_stalin.png
+lSLF07#2@21"Copy josef_stalin.png306245590#306245590#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/josef_stalin.png8613803136#427"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/josef_stalin.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/kim_jong_il.png kim_jong_il.png
+s306245590.416961
+e306245590.602151
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/kim_jong_il.png
+xkim_jong_il.png
+lSLF07#2@20"Copy kim_jong_il.png306245590#306245590#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/kim_jong_il.png8615169632#426"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/kim_jong_il.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/osama_bin_laden.png osama_bin_laden.png
+s306245590.418794
+e306245590.601393
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/osama_bin_laden.png
+xosama_bin_laden.png
+lSLF07#2@24"Copy osama_bin_laden.png306245590#306245590#0(0"0(0#0#47"/Users/da/Downloads/HowEvil/osama_bin_laden.png8615068032#430"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/osama_bin_laden.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/robert_mugabe.png robert_mugabe.png
+s306245590.413335
+e306245590.614680
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/robert_mugabe.png
+xrobert_mugabe.png
+lSLF07#2@22"Copy robert_mugabe.png306245590#306245590#0(0"0(0#0#45"/Users/da/Downloads/HowEvil/robert_mugabe.png8616438784#428"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/robert_mugabe.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/saddam_hussein.png saddam_hussein.png
+s306245590.415150
+e306245590.583690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/saddam_hussein.png
+xsaddam_hussein.png
+lSLF07#2@23"Copy saddam_hussein.png306245590#306245590#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/saddam_hussein.png8615369184#429"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/saddam_hussein.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/shoko_asahara.png shoko_asahara.png
+s306245590.574006
+e306245590.606504
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/shoko_asahara.png
+xshoko_asahara.png
+lSLF07#2@22"Copy shoko_asahara.png306245590#306245590#0(0"0(0#0#45"/Users/da/Downloads/HowEvil/shoko_asahara.png8613811008#428"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/shoko_asahara.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CCpResource build/Debug-iphonesimulator/HowEvil.app/ted_bundy.png ted_bundy.png
+s306245590.409571
+e306245590.611831
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HowEvil.app/ted_bundy.png
+xted_bundy.png
+lSLF07#2@18"Copy ted_bundy.png306245590#306245590#0(0"0(0#0#41"/Users/da/Downloads/HowEvil/ted_bundy.png8612373632#424"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/da/Downloads/HowEvil/ted_bundy.png /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+
+CGenerateDSYMFile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app.dSYM /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil
+s306245593.926463
+e306245594.018517
+r1
+xGenerateDSYMFile
+x/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app.dSYM
+x/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/HowEvil.app.dSYM build/Debug-iphonesimulator/HowEvil.app/HowEvil306245593#306245594#0(0"0(0#0#75"/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil8610671808#350"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil -o /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app.dSYM0#
+
+CLd /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil normal i386
+s306245593.722314
+e306245593.926360
+r1
+xLd
+x/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil
+xnormal
+xi386
+lSLF07#2@80"Link /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil306245593#306245593#0(0"0(0#0#0"8613350176#867"    cd /Users/da/Downloads/HowEvil    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -filelist /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/Objects-normal/i386/HowEvil.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/HowEvil0#
+
+CProcessInfoPlistFile /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Info.plist HowEvil-Info.plist
+s306245588.095762
+e306245588.099646
+r1
+xProcessInfoPlistFile
+x/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Info.plist
+xHowEvil-Info.plist
+lSLF07#2@26"Process HowEvil-Info.plist306245588#306245588#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/HowEvil-Info.plist32088624093986912#446"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HowEvil-Info.plist -genpkginfo /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app/Info.plist0#
+
+CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306245591.615176
+e306245592.782904
+r1
+xProcessPCH
+x/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch.gch
+xHowEvil_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile HowEvil_Prefix.pch306245591#306245592#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/HowEvil_Prefix.pch8615370528#1696"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator -I/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources/i386 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphonesimulator/HowEvil.build/DerivedSources -c /Users/da/Downloads/HowEvil/HowEvil_Prefix.pch -o /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-cnlsopmoaavbhydcvwcbzxxhpzdw/HowEvil_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-dartkraojektcdbkaxogcapedhee/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app
+s306245594.018615
+e306245594.069869
+r1
+xTouch
+x/Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app
+lSLF07#2@73"Touch /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app306245594#306245594#0(0"0(0#0#0"8611260768#256"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/da/Downloads/HowEvil/build/Debug-iphonesimulator/HowEvil.app0#
+

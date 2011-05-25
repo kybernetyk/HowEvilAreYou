@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	032F890E12705EEA00BF3A7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */;
+		name = "ImageEditingViewController.m: 116";
+		rLen = 0;
+		rLoc = 3369;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 2699;
+	};
+	0336C1E6129597CB0058F72A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */;
+		name = "ImageEditingViewController.m: 107";
+		rLen = 0;
+		rLoc = 2721;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 2556;
+	};
+	03D16C621240D8AD00B4B19C /* HowEvil */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HowEvil;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	03D16C7D1240D8B500B4B19C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	03D16C7E1240D8B500B4B19C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 5109}}";
+			sepNavSelRange = "{2721, 0}";
+			sepNavVisRange = "{2556, 471}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HowEvil */ = {
+		activeExec = 0;
+		executables = (
+			03D16C621240D8AD00B4B19C /* HowEvil */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 03D16C621240D8AD00B4B19C /* HowEvil */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HowEvil */;
+		codeSenseManager = 03D16C7E1240D8B500B4B19C /* Code sense */;
+		executables = (
+			03D16C621240D8AD00B4B19C /* HowEvil */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311793202;
+			PBXWorkspaceStateSaveDate = 311793202;
+		};
+		perUserProjectItems = {
+			032F890E12705EEA00BF3A7B /* PBXTextBookmark */ = 032F890E12705EEA00BF3A7B /* PBXTextBookmark */;
+			0336C1E6129597CB0058F72A /* PBXTextBookmark */ = 0336C1E6129597CB0058F72A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 03D16C7D1240D8B500B4B19C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* HowEvil-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 52}, {1210, 726}}";
+		};
+	};
+}

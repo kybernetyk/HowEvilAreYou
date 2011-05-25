@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		031D1F33123E52DE00720132 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 031D1F31123E52DE00720132 /* HelpViewController.m */; };
+		031D1F34123E52DE00720132 /* HelpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 031D1F32123E52DE00720132 /* HelpViewController.xib */; };
+		038559C7123CF0BB00F02BE9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 038559C6123CF0BB00F02BE9 /* Icon.png */; };
+		038559E6123CF20E00F02BE9 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 038559E5123CF20E00F02BE9 /* Icon@2x.png */; };
+		038559FE123CF43600F02BE9 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 038559FD123CF43600F02BE9 /* Icon-72.png */; };
+		038DCD341233F98200CE2B2E /* ted_bundy.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD331233F98200CE2B2E /* ted_bundy.png */; };
+		038DCD361233F9A200CE2B2E /* gaddafi.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD351233F9A200CE2B2E /* gaddafi.png */; };
+		038DCD381233F9CF00CE2B2E /* robert_mugabe.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD371233F9CF00CE2B2E /* robert_mugabe.png */; };
+		038DCD3A1233F9F700CE2B2E /* saddam_hussein.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD391233F9F700CE2B2E /* saddam_hussein.png */; };
+		038DCD3C1233FA3300CE2B2E /* kim_jong_il.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD3B1233FA3300CE2B2E /* kim_jong_il.png */; };
+		038DCD3E1233FA5A00CE2B2E /* osama_bin_laden.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD3D1233FA5A00CE2B2E /* osama_bin_laden.png */; };
+		038DCD401233FA8F00CE2B2E /* hans_reiser.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD3F1233FA8F00CE2B2E /* hans_reiser.png */; };
+		038DCD421233FAAD00CE2B2E /* shoko_asahara.png in Resources */ = {isa = PBXBuildFile; fileRef = 038DCD411233FAAD00CE2B2E /* shoko_asahara.png */; };
+		03991EBD122D6A0000619C47 /* adolf_hitler.png in Resources */ = {isa = PBXBuildFile; fileRef = 03991EBC122D6A0000619C47 /* adolf_hitler.png */; };
+		03991EDE122D6D0B00619C47 /* charles_manson.png in Resources */ = {isa = PBXBuildFile; fileRef = 03991EDD122D6D0B00619C47 /* charles_manson.png */; };
+		03991EF1122D6DDF00619C47 /* josef_stalin.png in Resources */ = {isa = PBXBuildFile; fileRef = 03991EF0122D6DDF00619C47 /* josef_stalin.png */; };
+		039C7568123E9A46008D1860 /* face@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 039C7567123E9A46008D1860 /* face@2x.png */; };
+		039C7602123EAAAE008D1860 /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 039C7601123EAAAE008D1860 /* NSDataAdditions.m */; };
+		03C15BF2123FFA2B00DE1518 /* fireback.png in Resources */ = {isa = PBXBuildFile; fileRef = 03C15BF0123FFA2B00DE1518 /* fireback.png */; };
+		03C15BF3123FFA2B00DE1518 /* fireback@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03C15BF1123FFA2B00DE1518 /* fireback@2x.png */; };
+		03D65F92122D39C900C1F0F1 /* ImageEditingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */; };
+		03D65F93122D39C900C1F0F1 /* ImageEditingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03D65F91122D39C900C1F0F1 /* ImageEditingViewController.xib */; };
+		03D65FAE122D3A9000C1F0F1 /* XFFaceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D65FAD122D3A9000C1F0F1 /* XFFaceView.m */; };
+		03D65FBD122D3AC200C1F0F1 /* MGTouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D65FB8122D3AC200C1F0F1 /* MGTouchView.m */; };
+		03D65FBE122D3AC200C1F0F1 /* NSString+Slice.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D65FBA122D3AC200C1F0F1 /* NSString+Slice.m */; };
+		03D65FBF122D3AC200C1F0F1 /* UIImage+crop+resize.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D65FBC122D3AC200C1F0F1 /* UIImage+crop+resize.m */; };
+		03D65FC3122D3ACB00C1F0F1 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03D65FC2122D3ACB00C1F0F1 /* QuartzCore.framework */; };
+		03D65FD8122D3B4100C1F0F1 /* face.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D65FD7122D3B4100C1F0F1 /* face.png */; };
+		03D660AE122D402900C1F0F1 /* 84-lightbulb.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D660AD122D402900C1F0F1 /* 84-lightbulb.png */; };
+		03D660C2122D40EF00C1F0F1 /* AnalyzeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D660C0122D40EF00C1F0F1 /* AnalyzeViewController.m */; };
+		03D660C3122D40EF00C1F0F1 /* AnalyzeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03D660C1122D40EF00C1F0F1 /* AnalyzeViewController.xib */; };
+		03D66143122D4A0E00C1F0F1 /* WaitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D66141122D4A0E00C1F0F1 /* WaitViewController.m */; };
+		03D66144122D4A0E00C1F0F1 /* WaitViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03D66142122D4A0E00C1F0F1 /* WaitViewController.xib */; };
+		03F46A2A1240D4EE00E0565C /* 84-lightbulb.png in Resources */ = {isa = PBXBuildFile; fileRef = 03F46A281240D4EE00E0565C /* 84-lightbulb.png */; };
+		03F46A2B1240D4EE00E0565C /* 84-lightbulb@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03F46A291240D4EE00E0565C /* 84-lightbulb@2x.png */; };
+		1D3623260D0F684500981E51 /* HowEvilAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* HowEvilAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		031D1F30123E52DE00720132 /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HelpViewController.h; path = ../HelpViewController.h; sourceTree = "<group>"; };
+		031D1F31123E52DE00720132 /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HelpViewController.m; path = ../HelpViewController.m; sourceTree = "<group>"; };
+		031D1F32123E52DE00720132 /* HelpViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpViewController.xib; sourceTree = "<group>"; };
+		038559C6123CF0BB00F02BE9 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		038559E5123CF20E00F02BE9 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		038559FD123CF43600F02BE9 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		038DCD331233F98200CE2B2E /* ted_bundy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ted_bundy.png; sourceTree = "<group>"; };
+		038DCD351233F9A200CE2B2E /* gaddafi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gaddafi.png; sourceTree = "<group>"; };
+		038DCD371233F9CF00CE2B2E /* robert_mugabe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robert_mugabe.png; sourceTree = "<group>"; };
+		038DCD391233F9F700CE2B2E /* saddam_hussein.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saddam_hussein.png; sourceTree = "<group>"; };
+		038DCD3B1233FA3300CE2B2E /* kim_jong_il.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kim_jong_il.png; sourceTree = "<group>"; };
+		038DCD3D1233FA5A00CE2B2E /* osama_bin_laden.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = osama_bin_laden.png; sourceTree = "<group>"; };
+		038DCD3F1233FA8F00CE2B2E /* hans_reiser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hans_reiser.png; sourceTree = "<group>"; };
+		038DCD411233FAAD00CE2B2E /* shoko_asahara.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shoko_asahara.png; sourceTree = "<group>"; };
+		03991EBC122D6A0000619C47 /* adolf_hitler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = adolf_hitler.png; sourceTree = "<group>"; };
+		03991EDD122D6D0B00619C47 /* charles_manson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charles_manson.png; sourceTree = "<group>"; };
+		03991EF0122D6DDF00619C47 /* josef_stalin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = josef_stalin.png; sourceTree = "<group>"; };
+		039C7567123E9A46008D1860 /* face@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "face@2x.png"; sourceTree = "<group>"; };
+		039C7600123EAAAE008D1860 /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
+		039C7601123EAAAE008D1860 /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
+		03C15BF0123FFA2B00DE1518 /* fireback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fireback.png; sourceTree = "<group>"; };
+		03C15BF1123FFA2B00DE1518 /* fireback@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fireback@2x.png"; sourceTree = "<group>"; };
+		03D65F8F122D39C900C1F0F1 /* ImageEditingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageEditingViewController.h; sourceTree = "<group>"; };
+		03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageEditingViewController.m; sourceTree = "<group>"; };
+		03D65F91122D39C900C1F0F1 /* ImageEditingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ImageEditingViewController.xib; path = Classes/ImageEditingViewController.xib; sourceTree = "<group>"; };
+		03D65FAC122D3A9000C1F0F1 /* XFFaceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFFaceView.h; sourceTree = "<group>"; };
+		03D65FAD122D3A9000C1F0F1 /* XFFaceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFFaceView.m; sourceTree = "<group>"; };
+		03D65FB7122D3AC200C1F0F1 /* MGTouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MGTouchView.h; sourceTree = "<group>"; };
+		03D65FB8122D3AC200C1F0F1 /* MGTouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MGTouchView.m; sourceTree = "<group>"; };
+		03D65FB9122D3AC200C1F0F1 /* NSString+Slice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Slice.h"; sourceTree = "<group>"; };
+		03D65FBA122D3AC200C1F0F1 /* NSString+Slice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Slice.m"; sourceTree = "<group>"; };
+		03D65FBB122D3AC200C1F0F1 /* UIImage+crop+resize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+crop+resize.h"; sourceTree = "<group>"; };
+		03D65FBC122D3AC200C1F0F1 /* UIImage+crop+resize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+crop+resize.m"; sourceTree = "<group>"; };
+		03D65FC2122D3ACB00C1F0F1 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		03D65FD7122D3B4100C1F0F1 /* face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face.png; sourceTree = "<group>"; };
+		03D660AD122D402900C1F0F1 /* 84-lightbulb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "84-lightbulb.png"; sourceTree = "<group>"; };
+		03D660BF122D40EF00C1F0F1 /* AnalyzeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnalyzeViewController.h; sourceTree = "<group>"; };
+		03D660C0122D40EF00C1F0F1 /* AnalyzeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnalyzeViewController.m; sourceTree = "<group>"; };
+		03D660C1122D40EF00C1F0F1 /* AnalyzeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AnalyzeViewController.xib; path = Classes/AnalyzeViewController.xib; sourceTree = "<group>"; };
+		03D66140122D4A0E00C1F0F1 /* WaitViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaitViewController.h; sourceTree = "<group>"; };
+		03D66141122D4A0E00C1F0F1 /* WaitViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WaitViewController.m; sourceTree = "<group>"; };
+		03D66142122D4A0E00C1F0F1 /* WaitViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = WaitViewController.xib; path = Classes/WaitViewController.xib; sourceTree = "<group>"; };
+		03F46A281240D4EE00E0565C /* 84-lightbulb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "84-lightbulb.png"; sourceTree = "<group>"; };
+		03F46A291240D4EE00E0565C /* 84-lightbulb@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "84-lightbulb@2x.png"; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* HowEvilAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HowEvilAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* HowEvilAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HowEvilAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* HowEvil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HowEvil.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* HowEvil_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HowEvil_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* HowEvil-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "HowEvil-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				03D65FC3122D3ACB00C1F0F1 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				039C7600123EAAAE008D1860 /* NSDataAdditions.h */,
+				039C7601123EAAAE008D1860 /* NSDataAdditions.m */,
+				031D1F30123E52DE00720132 /* HelpViewController.h */,
+				031D1F31123E52DE00720132 /* HelpViewController.m */,
+				03D65FB7122D3AC200C1F0F1 /* MGTouchView.h */,
+				03D65FB8122D3AC200C1F0F1 /* MGTouchView.m */,
+				03D65FB9122D3AC200C1F0F1 /* NSString+Slice.h */,
+				03D65FBA122D3AC200C1F0F1 /* NSString+Slice.m */,
+				03D65FBB122D3AC200C1F0F1 /* UIImage+crop+resize.h */,
+				03D65FBC122D3AC200C1F0F1 /* UIImage+crop+resize.m */,
+				03D65FAC122D3A9000C1F0F1 /* XFFaceView.h */,
+				03D65FAD122D3A9000C1F0F1 /* XFFaceView.m */,
+				1D3623240D0F684500981E51 /* HowEvilAppDelegate.h */,
+				1D3623250D0F684500981E51 /* HowEvilAppDelegate.m */,
+				03D65F8F122D39C900C1F0F1 /* ImageEditingViewController.h */,
+				03D65F90122D39C900C1F0F1 /* ImageEditingViewController.m */,
+				03D660BF122D40EF00C1F0F1 /* AnalyzeViewController.h */,
+				03D660C0122D40EF00C1F0F1 /* AnalyzeViewController.m */,
+				03D66140122D4A0E00C1F0F1 /* WaitViewController.h */,
+				03D66141122D4A0E00C1F0F1 /* WaitViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* HowEvil.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* HowEvil_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				03F46A281240D4EE00E0565C /* 84-lightbulb.png */,
+				03F46A291240D4EE00E0565C /* 84-lightbulb@2x.png */,
+				03C15BF0123FFA2B00DE1518 /* fireback.png */,
+				03C15BF1123FFA2B00DE1518 /* fireback@2x.png */,
+				039C7567123E9A46008D1860 /* face@2x.png */,
+				031D1F32123E52DE00720132 /* HelpViewController.xib */,
+				038559FD123CF43600F02BE9 /* Icon-72.png */,
+				038559E5123CF20E00F02BE9 /* Icon@2x.png */,
+				038559C6123CF0BB00F02BE9 /* Icon.png */,
+				038DCD411233FAAD00CE2B2E /* shoko_asahara.png */,
+				038DCD3F1233FA8F00CE2B2E /* hans_reiser.png */,
+				038DCD3B1233FA3300CE2B2E /* kim_jong_il.png */,
+				038DCD3D1233FA5A00CE2B2E /* osama_bin_laden.png */,
+				038DCD391233F9F700CE2B2E /* saddam_hussein.png */,
+				038DCD371233F9CF00CE2B2E /* robert_mugabe.png */,
+				038DCD351233F9A200CE2B2E /* gaddafi.png */,
+				038DCD331233F98200CE2B2E /* ted_bundy.png */,
+				03991EF0122D6DDF00619C47 /* josef_stalin.png */,
+				03991EDD122D6D0B00619C47 /* charles_manson.png */,
+				03991EBC122D6A0000619C47 /* adolf_hitler.png */,
+				03D66142122D4A0E00C1F0F1 /* WaitViewController.xib */,
+				03D660C1122D40EF00C1F0F1 /* AnalyzeViewController.xib */,
+				03D660AD122D402900C1F0F1 /* 84-lightbulb.png */,
+				03D65FD7122D3B4100C1F0F1 /* face.png */,
+				03D65F91122D39C900C1F0F1 /* ImageEditingViewController.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* HowEvil-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				03D65FC2122D3ACB00C1F0F1 /* QuartzCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* HowEvil */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "HowEvil" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HowEvil;
+			productName = HowEvil;
+			productReference = 1D6058910D05DD3D006BFB54 /* HowEvil.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "HowEvil" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* HowEvil */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				03D65F93122D39C900C1F0F1 /* ImageEditingViewController.xib in Resources */,
+				03D65FD8122D3B4100C1F0F1 /* face.png in Resources */,
+				03D660AE122D402900C1F0F1 /* 84-lightbulb.png in Resources */,
+				03D660C3122D40EF00C1F0F1 /* AnalyzeViewController.xib in Resources */,
+				03D66144122D4A0E00C1F0F1 /* WaitViewController.xib in Resources */,
+				03991EBD122D6A0000619C47 /* adolf_hitler.png in Resources */,
+				03991EDE122D6D0B00619C47 /* charles_manson.png in Resources */,
+				03991EF1122D6DDF00619C47 /* josef_stalin.png in Resources */,
+				038DCD341233F98200CE2B2E /* ted_bundy.png in Resources */,
+				038DCD361233F9A200CE2B2E /* gaddafi.png in Resources */,
+				038DCD381233F9CF00CE2B2E /* robert_mugabe.png in Resources */,
+				038DCD3A1233F9F700CE2B2E /* saddam_hussein.png in Resources */,
+				038DCD3C1233FA3300CE2B2E /* kim_jong_il.png in Resources */,
+				038DCD3E1233FA5A00CE2B2E /* osama_bin_laden.png in Resources */,
+				038DCD401233FA8F00CE2B2E /* hans_reiser.png in Resources */,
+				038DCD421233FAAD00CE2B2E /* shoko_asahara.png in Resources */,
+				038559C7123CF0BB00F02BE9 /* Icon.png in Resources */,
+				038559E6123CF20E00F02BE9 /* Icon@2x.png in Resources */,
+				038559FE123CF43600F02BE9 /* Icon-72.png in Resources */,
+				031D1F34123E52DE00720132 /* HelpViewController.xib in Resources */,
+				039C7568123E9A46008D1860 /* face@2x.png in Resources */,
+				03C15BF2123FFA2B00DE1518 /* fireback.png in Resources */,
+				03C15BF3123FFA2B00DE1518 /* fireback@2x.png in Resources */,
+				03F46A2A1240D4EE00E0565C /* 84-lightbulb.png in Resources */,
+				03F46A2B1240D4EE00E0565C /* 84-lightbulb@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* HowEvilAppDelegate.m in Sources */,
+				03D65F92122D39C900C1F0F1 /* ImageEditingViewController.m in Sources */,
+				03D65FAE122D3A9000C1F0F1 /* XFFaceView.m in Sources */,
+				03D65FBD122D3AC200C1F0F1 /* MGTouchView.m in Sources */,
+				03D65FBE122D3AC200C1F0F1 /* NSString+Slice.m in Sources */,
+				03D65FBF122D3AC200C1F0F1 /* UIImage+crop+resize.m in Sources */,
+				03D660C2122D40EF00C1F0F1 /* AnalyzeViewController.m in Sources */,
+				03D66143122D4A0E00C1F0F1 /* WaitViewController.m in Sources */,
+				031D1F33123E52DE00720132 /* HelpViewController.m in Sources */,
+				039C7602123EAAAE008D1860 /* NSDataAdditions.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = HowEvil_Prefix.pch;
+				INFOPLIST_FILE = "HowEvil-Info.plist";
+				PRODUCT_NAME = HowEvil;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = HowEvil_Prefix.pch;
+				INFOPLIST_FILE = "HowEvil-Info.plist";
+				PRODUCT_NAME = HowEvil;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Daniel Arndt (K3M2A6WTSH)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A83E2E7D-4F58-4B37-9853-8F64FE067FD5";
+				SDKROOT = iphoneos4.1;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Daniel Arndt (K3M2A6WTSH)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A83E2E7D-4F58-4B37-9853-8F64FE067FD5";
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "HowEvil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "HowEvil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
