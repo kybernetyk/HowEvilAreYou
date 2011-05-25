@@ -1,1339 +1,0 @@
-THowEvil
-v7
-r0
-t306245572.914494
-cCheck dependencies
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
-c000000004C05C1B10000000000000110
-t1275445681
-s272
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
-c000000004BF4B7F900000000000001A7
-t1274329081
-s423
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
-c000000004BF4B7F900000000000001E5
-t1274329081
-s485
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFE06FA000000000034A850
-t1274939130
-s3450960
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFE07D200000000003E1EB0
-t1274939346
-s4071088
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFE07B10000000000001466
-t1274939313
-s5222
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004C0458CC00000000000000C4
-t1275353292
-s196
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004C045AEF0000000000253180
-t1275353839
-s2437504
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C04711400000000000009CD
-t1275359508
-s2509
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471FC0000000002D563E0
-t1275359740
-s47539168
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
-c000000004BF4D50E0000000000001A3B
-t1274336526
-s6715
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/CommonCrypto/CommonDigest.h
-c000000004BF4BCBB0000000000002407
-t1274330299
-s9223
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
-c000000004C6DE9E30000000000000110
-t1282271715
-s272
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
-c000000004C578FA900000000000001E5
-t1280806825
-s485
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A51050000000000345F00
-t1280987397
-s3432192
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A52B100000000003E1EF0
-t1280987825
-s4071152
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A527F0000000000001466
-t1280987775
-s5222
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004C5A556300000000000000C4
-t1280988515
-s196
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004C5A56D600000000002573D0
-t1280988886
-s2454480
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C62427000000000000009CD
-t1281507952
-s2509
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C62430F0000000002EBC2B0
-t1281508111
-s49005232
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
-c000000004C57A57A0000000000001A5C
-t1280812410
-s6748
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
-c000000004C5790370000000000002407
-t1280806967
-s9223
-
-N/Users/da/Downloads/HowEvil/84-lightbulb.png
-c000000004A3E20E2000000000000011C
-t1245585634
-s284
-
-N/Users/da/Downloads/HowEvil/84-lightbulb@2x.png
-c000000004C59DB2C0000000000000251
-t1280957228
-s593
-
-N/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m
-c000000004C8E268600000000000006FE
-t1284384390
-s1790
-i"HelpViewController.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.h
-c000000004C8E7B19000000000000025A
-t1284406041
-s602
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m
-c000000004C8E6FA40000000000001BF4
-t1284403108
-s7156
-i"AnalyzeViewController.h"
-i"UIImage+crop+resize.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
-c000000004C8FC7610000000000007594
-t1284491105
-s30100
-
-N/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.h
-c000000004C7D01DD00000000000001C3
-t1283260893
-s451
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m
-c000000004C8E2D620000000000000B2C
-t1284386146
-s2860
-i"HowEvilAppDelegate.h"
-
-N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.h
-c000000004C8E775900000000000002E1
-t1284405081
-s737
-i<UIKit/UIKit.h>
-i"XFFaceView.h"
-
-N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m
-c000000004C90A027000000000000279D
-t1284546599
-s10141
-i"ImageEditingViewController.h"
-i"XFFaceView.h"
-i"AnalyzeViewController.h"
-i"WaitViewController.h"
-i"HelpViewController.h"
-i<QuartzCore/QuartzCore.h>
-i"NSDataAdditions.h"
-
-N/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
-c000000004C8FCC1B000000000000778F
-t1284492315
-s30607
-
-N/Users/da/Downloads/HowEvil/Classes/MGTouchView.h
-c000000004C8E81C4000000000000012A
-t1284407748
-s298
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/MGTouchView.m
-c000000004C7930960000000000001124
-t1283010710
-s4388
-i"MGTouchView.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.h
-c000000004C8E82340000000000000337
-t1284407860
-s823
-i<Foundation/Foundation.h>
-
-N/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m
-c000000004C8E829F0000000000000629
-t1284407967
-s1577
-i"NSDataAdditions.h"
-i<CommonCrypto/CommonDigest.h>
-
-N/Users/da/Downloads/HowEvil/Classes/NSString+Slice.h
-c000000004C73ED98000000000000023A
-t1282665880
-s570
-i<Foundation/Foundation.h>
-
-N/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m
-c000000004C73EF700000000000000423
-t1282666352
-s1059
-i"NSString+Slice.h"
-
-N/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.h
-c000000004C73C11A0000000000000105
-t1282654490
-s261
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m
-c000000004C73F5A800000000000006FD
-t1282667944
-s1789
-i"UIImage+crop+resize.h"
-
-N/Users/da/Downloads/HowEvil/Classes/WaitViewController.h
-c000000004C8910FA00000000000001B6
-t1284051194
-s438
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/WaitViewController.m
-c000000004C8E5DAE0000000000000A8B
-t1284398510
-s2699
-i"WaitViewController.h"
-i"AnalyzeViewController.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
-c000000004C8FCCE40000000000006DB5
-t1284492516
-s28085
-
-N/Users/da/Downloads/HowEvil/Classes/XFFaceView.h
-c000000004C8E80AF00000000000001BC
-t1284407471
-s444
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Classes/XFFaceView.m
-c000000004C8FB26C0000000000001802
-t1284485740
-s6146
-i"XFFaceView.h"
-i"UIImage+crop+resize.h"
-i"MGTouchView.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/da/Downloads/HowEvil/HelpViewController.h
-c000000004C8E1C180000000000000135
-t1284381720
-s309
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/HelpViewController.xib
-c000000004C8FC77F0000000000005309
-t1284491135
-s21257
-
-N/Users/da/Downloads/HowEvil/HowEvil_Prefix.pch
-c000000004C8915EC000000000000015D
-t1284052460
-s349
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/Icon-72.png
-c000000004C8CBC9E00000000000025D3
-t1284291742
-s9683
-
-N/Users/da/Downloads/HowEvil/Icon.png
-c000000004C8FF0190000000000001DBA
-t1284501529
-s7610
-
-N/Users/da/Downloads/HowEvil/Icon@2x.png
-c000000004C8CB9960000000000004218
-t1284290966
-s16920
-
-N/Users/da/Downloads/HowEvil/MainWindow.xib
-c000000004C8FCFEA0000000000007389
-t1284493290
-s29577
-
-N/Users/da/Downloads/HowEvil/adolf_hitler.png
-c000000004C7D32BB0000000000033767
-t1283273403
-s210791
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app.dSYM
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb@2x.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/AnalyzeViewController.nib
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HelpViewController.nib
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon-72.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon@2x.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ImageEditingViewController.nib
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Info.plist
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/MainWindow.nib
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/PkgInfo
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ResourceRules.plist
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/WaitViewController.nib
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/adolf_hitler.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/charles_manson.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision
-t1284546951
-s7238
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face@2x.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback@2x.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/gaddafi.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/hans_reiser.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/josef_stalin.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/kim_jong_il.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/osama_bin_laden.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/robert_mugabe.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/saddam_hussein.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/shoko_asahara.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ted_bundy.png
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent
-t1284546951
-s420
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/AnalyzeViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HelpViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil.LinkFileList
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvilAppDelegate.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/ImageEditingViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/MGTouchView.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSDataAdditions.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSString+Slice.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/UIImage+crop+resize.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/WaitViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/XFFaceView.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/main.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/AnalyzeViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HelpViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil.LinkFileList
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvilAppDelegate.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/ImageEditingViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/MGTouchView.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSDataAdditions.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSString+Slice.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/UIImage+crop+resize.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/WaitViewController.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/XFFaceView.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/main.o
-t2
-s0
-
-N/Users/da/Downloads/HowEvil/charles_manson.png
-c000000004C7D35840000000000013B38
-t1283274116
-s80696
-
-N/Users/da/Downloads/HowEvil/face.png
-c000000004C8FBABF000000000001593D
-t1284487871
-s88381
-
-N/Users/da/Downloads/HowEvil/face@2x.png
-c000000004C8FBAAC00000000000335AA
-t1284487852
-s210346
-
-N/Users/da/Downloads/HowEvil/fireback.png
-c000000004C8FC4080000000000015274
-t1284490248
-s86644
-
-N/Users/da/Downloads/HowEvil/fireback@2x.png
-c000000004C8FC3E600000000000392F1
-t1284490214
-s234225
-
-N/Users/da/Downloads/HowEvil/gaddafi.png
-c000000004C83C21A0000000000026EBE
-t1283703322
-s159422
-
-N/Users/da/Downloads/HowEvil/hans_reiser.png
-c000000004C83C30A000000000004A42E
-t1283703562
-s304174
-
-N/Users/da/Downloads/HowEvil/josef_stalin.png
-c000000004C7D3655000000000003DBC3
-t1283274325
-s252867
-
-N/Users/da/Downloads/HowEvil/kim_jong_il.png
-c000000004C83C2A9000000000003EB67
-t1283703465
-s256871
-
-N/Users/da/Downloads/HowEvil/main.m
-c000000004C7D01DD0000000000000159
-t1283260893
-s345
-i<UIKit/UIKit.h>
-
-N/Users/da/Downloads/HowEvil/osama_bin_laden.png
-c000000004C83C2D50000000000039D29
-t1283703509
-s236841
-
-N/Users/da/Downloads/HowEvil/robert_mugabe.png
-c000000004C83C24900000000000744B4
-t1283703369
-s476340
-
-N/Users/da/Downloads/HowEvil/saddam_hussein.png
-c000000004C83C26B0000000000028B13
-t1283703403
-s166675
-
-N/Users/da/Downloads/HowEvil/shoko_asahara.png
-c000000004C83C327000000000002410E
-t1283703591
-s147726
-
-N/Users/da/Downloads/HowEvil/ted_bundy.png
-c000000004C83C1F9000000000003052D
-t1283703289
-s197933
-
-N/Users/da/Library/MobileDevice/Provisioning Profiles/0E000516-55DC-423D-BD99-BA259E570A3E.mobileprovision
-c000000004C1A0FEB0000000000001C46
-t1276776427
-s7238
-
-N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch.gch
-t1284546948
-s10294832
-
-N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-eyshffcbkonlbvbvbqiklspnggmn/HowEvil_Prefix.pch.gch
-t2
-s0
-
-N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch.gch
-t1284546947
-s9831984
-
-N/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-fqyshcufsswggpdfxxvzdighqcdk/HowEvil_Prefix.pch.gch
-t2
-s0
-
-NHowEvil-Info.plist
-c000000004C90B83A000000000000044C
-t1284552762
-s1100
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies306245575#306245575#0(98"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile1(4@90"Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile306245575#18446744073709551615#0#0(1@0"0(0#1#0"8613835424#0"0#
-
-CCodeSign /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app
-s306239751.267848
-e306239752.415429
-r1
-xCodeSign
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app
-lSLF07#2@41"CodeSign build/Debug-iphoneos/HowEvil.app306239751#306239752#0(0"0(0#0#60"/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app8606578112#604"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Daniel Arndt (K3M2A6WTSH)" --resource-rules=/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ResourceRules.plist --entitlements /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/AnalyzeViewController.o /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239749.003203
-e306239749.345698
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/AnalyzeViewController.o
-x/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m306239749#306239749#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m8606309632#1645"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/AnalyzeViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HelpViewController.o /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239749.230713
-e306239749.400536
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HelpViewController.o
-x/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m306239749#306239749#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m8603922720#1642"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HelpViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvilAppDelegate.o /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.155624
-e306239748.347478
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvilAppDelegate.o
-x/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m306239748#306239748#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m8603324352#1639"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvilAppDelegate.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/ImageEditingViewController.o /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.318456
-e306239748.718762
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/ImageEditingViewController.o
-x/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol
-lSLF07#2@72"Compile /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239748#306239748#0(899"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol3(22@49"'XFFaceView' may not respond to '-setFaceImage2:'306239748#123#128#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306239748#251#124#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#0"0(22@99"Class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol306239748#720#179#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#125#0#125#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m8606135168#1655"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/ImageEditingViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/MGTouchView.o /Users/da/Downloads/HowEvil/Classes/MGTouchView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.619823
-e306239749.027174
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/MGTouchView.o
-x/Users/da/Downloads/HowEvil/Classes/MGTouchView.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/da/Downloads/HowEvil/Classes/MGTouchView.m306239748#306239749#0(0"0(0#0#49"/Users/da/Downloads/HowEvil/Classes/MGTouchView.m8606153696#1625"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/MGTouchView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/MGTouchView.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSDataAdditions.o /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239749.345810
-e306239749.476427
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSDataAdditions.o
-x/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@61"Compile /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m306239749#306239749#0(0"0(0#0#53"/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m8603416768#1633"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSDataAdditions.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSString+Slice.o /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.718869
-e306239748.849723
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSString+Slice.o
-x/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m306239748#306239748#0(0"0(0#0#52"/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m6004228693921461248#1631"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/NSString+Slice.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/UIImage+crop+resize.o /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.849842
-e306239749.003087
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/UIImage+crop+resize.o
-x/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m306239748#306239749#0(0"0(0#0#57"/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m8606366624#1641"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/UIImage+crop+resize.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/WaitViewController.o /Users/da/Downloads/HowEvil/Classes/WaitViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239749.027290
-e306239749.230589
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/WaitViewController.o
-x/Users/da/Downloads/HowEvil/Classes/WaitViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/WaitViewController.m306239749#306239749#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/WaitViewController.m8605966528#1639"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/WaitViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/WaitViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/XFFaceView.o /Users/da/Downloads/HowEvil/Classes/XFFaceView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.347590
-e306239748.619666
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/XFFaceView.o
-x/Users/da/Downloads/HowEvil/Classes/XFFaceView.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found
-lSLF07#2@56"Compile /Users/da/Downloads/HowEvil/Classes/XFFaceView.m306239748#306239748#0(1109"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found5(22@45"No '-faceView:markersDidChange:' method found306239748#100#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306239748#208#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#0"0(22@45"No '-faceView:markersDidChange:' method found306239748#595#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#104#0#104#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306239748#797#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#129#0#129#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306239748#1000#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#152#0#152#0#19"no '*' method found0(0#0#48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m8604252928#1623"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/XFFaceView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/XFFaceView.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/main.o /Users/da/Downloads/HowEvil/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239748.111360
-e306239748.318345
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/main.o
-x/Users/da/Downloads/HowEvil/main.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Compile /Users/da/Downloads/HowEvil/main.m306239748#306239748#0(0"0(0#0#34"/Users/da/Downloads/HowEvil/main.m8603508800#1603"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/main.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/main.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/AnalyzeViewController.o /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.274180
-e306239750.613392
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/AnalyzeViewController.o
-x/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m306239750#306239750#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m8604104992#1645"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/AnalyzeViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HelpViewController.o /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.475479
-e306239750.689541
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HelpViewController.o
-x/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m306239750#306239750#0(0"0(0#0#59"/Users/da/Downloads/HowEvil/Classes/../HelpViewController.m8603538592#1642"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/../HelpViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HelpViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvilAppDelegate.o /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239749.492718
-e306239749.641514
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvilAppDelegate.o
-x/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m306239749#306239749#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m8604119520#1639"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/HowEvilAppDelegate.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvilAppDelegate.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/ImageEditingViewController.o /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239749.641714
-e306239749.849580
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/ImageEditingViewController.o
-x/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':
-o/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol
-lSLF07#2@72"Compile /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239749#306239749#0(899"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController viewDidLoad]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: 'XFFaceView' may not respond to '-setFaceImage2:'/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:42: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m: In function '-[ImageEditingViewController choosePicture:]':/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m:125: warning: class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol3(22@49"'XFFaceView' may not respond to '-setFaceImage2:'306239749#123#128#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306239749#251#124#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#42#0#42#0#0"0(22@99"Class 'ImageEditingViewController' does not implement the 'UINavigationControllerDelegate' protocol306239749#720#179#0(6@64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m306239399#125#0#125#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m8606093312#1655"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/ImageEditingViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/MGTouchView.o /Users/da/Downloads/HowEvil/Classes/MGTouchView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.032586
-e306239750.167810
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/MGTouchView.o
-x/Users/da/Downloads/HowEvil/Classes/MGTouchView.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/da/Downloads/HowEvil/Classes/MGTouchView.m306239750#306239750#0(0"0(0#0#49"/Users/da/Downloads/HowEvil/Classes/MGTouchView.m8606308448#1625"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/MGTouchView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/MGTouchView.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSDataAdditions.o /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.613497
-e306239750.730102
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSDataAdditions.o
-x/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@61"Compile /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m306239750#306239750#0(0"0(0#0#53"/Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m8606312800#1633"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSDataAdditions.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSDataAdditions.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSString+Slice.o /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.167921
-e306239750.274069
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSString+Slice.o
-x/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m306239750#306239750#0(0"0(0#0#52"/Users/da/Downloads/HowEvil/Classes/NSString+Slice.m8605879552#1631"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/NSString+Slice.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/NSString+Slice.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/UIImage+crop+resize.o /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.192064
-e306239750.289437
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/UIImage+crop+resize.o
-x/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m306239750#306239750#0(0"0(0#0#57"/Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m8603204352#1641"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/UIImage+crop+resize.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/UIImage+crop+resize.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/WaitViewController.o /Users/da/Downloads/HowEvil/Classes/WaitViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239750.289547
-e306239750.475368
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/WaitViewController.o
-x/Users/da/Downloads/HowEvil/Classes/WaitViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/da/Downloads/HowEvil/Classes/WaitViewController.m306239750#306239750#0(0"0(0#0#56"/Users/da/Downloads/HowEvil/Classes/WaitViewController.m8606299936#1639"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/WaitViewController.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/WaitViewController.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/XFFaceView.o /Users/da/Downloads/HowEvil/Classes/XFFaceView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239749.849691
-e306239750.032475
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/XFFaceView.o
-x/Users/da/Downloads/HowEvil/Classes/XFFaceView.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':
-o/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found
-lSLF07#2@56"Compile /Users/da/Downloads/HowEvil/Classes/XFFaceView.m306239749#306239750#0(1109"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView addMarkerAtPosition:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: (Messages without a matching method signature/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: will be assumed to return 'id' and accept/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:80: warning: '...' as arguments.)/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView clearMarkers]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:104: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:129: warning: no '-faceView:markersDidChange:' method found/Users/da/Downloads/HowEvil/Classes/XFFaceView.m: In function '-[XFFaceView setFaceImage2:]':/Users/da/Downloads/HowEvil/Classes/XFFaceView.m:152: warning: no '-faceView:markersDidChange:' method found5(22@45"No '-faceView:markersDidChange:' method found306239749#100#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306239749#208#108#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#80#0#80#0#0"0(22@45"No '-faceView:markersDidChange:' method found306239749#595#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#104#0#104#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306239749#797#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#129#0#129#0#19"no '*' method found0(22@45"No '-faceView:markersDidChange:' method found306239749#1000#109#0(6@48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m306178540#152#0#152#0#19"no '*' method found0(0#0#48"/Users/da/Downloads/HowEvil/Classes/XFFaceView.m8606003456#1623"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/Classes/XFFaceView.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/XFFaceView.o0#
-
-CCompileC build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/main.o /Users/da/Downloads/HowEvil/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239749.400726
-e306239749.492603
-r1
-xCompileC
-xbuild/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/main.o
-x/Users/da/Downloads/HowEvil/main.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Compile /Users/da/Downloads/HowEvil/main.m306239749#306239749#0(0"0(0#0#34"/Users/da/Downloads/HowEvil/main.m8601342784#1603"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -include /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch -c /Users/da/Downloads/HowEvil/main.m -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/main.o0#
-
-CCompileXIB /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
-s306239732.350205
-e306239733.238131
-r1
-xCompileXIB
-x/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@44"CompileXIB Classes/AnalyzeViewController.xib306239732#306239733#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib8603530048#539"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/AnalyzeViewController.nib /Users/da/Downloads/HowEvil/Classes/AnalyzeViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
-
-CCompileXIB /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
-s306239728.672890
-e306239731.809341
-r1
-xCompileXIB
-x/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@49"CompileXIB Classes/ImageEditingViewController.xib306239728#306239731#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#66"/Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib8606272032#549"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ImageEditingViewController.nib /Users/da/Downloads/HowEvil/Classes/ImageEditingViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
-
-CCompileXIB /Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
-s306239732.950535
-e306239733.765658
-r1
-xCompileXIB
-x/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@41"CompileXIB Classes/WaitViewController.xib306239732#306239733#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/da/Downloads/HowEvil/Classes/WaitViewController.xib8603217088#533"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/WaitViewController.nib /Users/da/Downloads/HowEvil/Classes/WaitViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
-
-CCompileXIB /Users/da/Downloads/HowEvil/HelpViewController.xib
-s306239738.646189
-e306239740.882243
-r1
-xCompileXIB
-x/Users/da/Downloads/HowEvil/HelpViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@33"CompileXIB HelpViewController.xib306239738#306239740#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/da/Downloads/HowEvil/HelpViewController.xib8605885792#525"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HelpViewController.nib /Users/da/Downloads/HowEvil/HelpViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
-
-CCompileXIB /Users/da/Downloads/HowEvil/MainWindow.xib
-s306239728.671570
-e306239731.575731
-r1
-xCompileXIB
-x/Users/da/Downloads/HowEvil/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib306239728#306239731#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#42"/Users/da/Downloads/HowEvil/MainWindow.xib8606384416#509"    cd /Users/da/Downloads/HowEvil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/MainWindow.nib /Users/da/Downloads/HowEvil/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb.png 84-lightbulb.png
-s306239732.311288
-e306239732.350104
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb.png
-x84-lightbulb.png
-lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/HowEvil.app/84-lightbulb.png 84-lightbulb.png306239732#306239732#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/84-lightbulb.png8604534784#539"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/84-lightbulb.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb@2x.png 84-lightbulb@2x.png
-s306239742.341419
-e306239742.387209
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb@2x.png
-x84-lightbulb@2x.png
-lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/HowEvil.app/84-lightbulb@2x.png 84-lightbulb@2x.png306239742#306239742#0(0"0(0#0#47"/Users/da/Downloads/HowEvil/84-lightbulb@2x.png8606543104#545"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/84-lightbulb@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/84-lightbulb@2x.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon-72.png Icon-72.png
-s306239738.578584
-e306239738.646085
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon-72.png
-xIcon-72.png
-lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/HowEvil.app/Icon-72.png Icon-72.png306239738#306239738#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/Icon-72.png8606255136#529"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/Icon-72.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon-72.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon.png Icon.png
-s306239738.411187
-e306239738.466159
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon.png
-xIcon.png
-lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/HowEvil.app/Icon.png Icon.png306239738#306239738#0(0"0(0#0#36"/Users/da/Downloads/HowEvil/Icon.png8603089920#523"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/Icon.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon@2x.png Icon@2x.png
-s306239738.466393
-e306239738.578479
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon@2x.png
-xIcon@2x.png
-lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/HowEvil.app/Icon@2x.png Icon@2x.png306239738#306239738#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/Icon@2x.png8604531552#529"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/Icon@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Icon@2x.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/adolf_hitler.png adolf_hitler.png
-s306239733.238276
-e306239734.269346
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/adolf_hitler.png
-xadolf_hitler.png
-lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/HowEvil.app/adolf_hitler.png adolf_hitler.png306239733#306239734#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/adolf_hitler.png8605897632#539"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/adolf_hitler.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/adolf_hitler.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/charles_manson.png charles_manson.png
-s306239733.765766
-e306239734.148888
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/charles_manson.png
-xcharles_manson.png
-lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/HowEvil.app/charles_manson.png charles_manson.png306239733#306239734#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/charles_manson.png8605751808#543"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/charles_manson.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/charles_manson.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face.png face.png
-s306239731.575936
-e306239732.950302
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face.png
-xface.png
-lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/HowEvil.app/face.png face.png306239731#306239732#0(0"0(0#0#36"/Users/da/Downloads/HowEvil/face.png8604013600#523"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/face.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face@2x.png face@2x.png
-s306239739.797455
-e306239742.007012
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face@2x.png
-xface@2x.png
-lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/HowEvil.app/face@2x.png face@2x.png306239739#306239742#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/face@2x.png8605857440#529"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/face@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/face@2x.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback.png fireback.png
-s306239740.882383
-e306239742.341309
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback.png
-xfireback.png
-lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/HowEvil.app/fireback.png fireback.png306239740#306239742#0(0"0(0#0#40"/Users/da/Downloads/HowEvil/fireback.png8606060800#531"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/fireback.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback@2x.png fireback@2x.png
-s306239742.007121
-e306239745.946876
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback@2x.png
-xfireback@2x.png
-lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/HowEvil.app/fireback@2x.png fireback@2x.png306239742#306239745#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/fireback@2x.png8604460000#537"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/fireback@2x.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/fireback@2x.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/gaddafi.png gaddafi.png
-s306239735.418746
-e306239735.922727
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/gaddafi.png
-xgaddafi.png
-lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/HowEvil.app/gaddafi.png gaddafi.png306239735#306239735#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/gaddafi.png8603830272#529"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/gaddafi.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/gaddafi.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/hans_reiser.png hans_reiser.png
-s306239737.452868
-e306239739.797340
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/hans_reiser.png
-xhans_reiser.png
-lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/HowEvil.app/hans_reiser.png hans_reiser.png306239737#306239739#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/hans_reiser.png8604020896#537"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/hans_reiser.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/hans_reiser.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/josef_stalin.png josef_stalin.png
-s306239734.148992
-e306239735.931071
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/josef_stalin.png
-xjosef_stalin.png
-lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/HowEvil.app/josef_stalin.png josef_stalin.png306239734#306239735#0(0"0(0#0#44"/Users/da/Downloads/HowEvil/josef_stalin.png8604298944#539"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/josef_stalin.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/josef_stalin.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/kim_jong_il.png kim_jong_il.png
-s306239736.927830
-e306239737.452764
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/kim_jong_il.png
-xkim_jong_il.png
-lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/HowEvil.app/kim_jong_il.png kim_jong_il.png306239736#306239737#0(0"0(0#0#43"/Users/da/Downloads/HowEvil/kim_jong_il.png8590514784#537"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/kim_jong_il.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/kim_jong_il.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/osama_bin_laden.png osama_bin_laden.png
-s306239737.361071
-e306239737.914537
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/osama_bin_laden.png
-xosama_bin_laden.png
-lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/HowEvil.app/osama_bin_laden.png osama_bin_laden.png306239737#306239737#0(0"0(0#0#47"/Users/da/Downloads/HowEvil/osama_bin_laden.png8605797888#545"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/osama_bin_laden.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/osama_bin_laden.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/robert_mugabe.png robert_mugabe.png
-s306239735.922920
-e306239737.360963
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/robert_mugabe.png
-xrobert_mugabe.png
-lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/HowEvil.app/robert_mugabe.png robert_mugabe.png306239735#306239737#0(0"0(0#0#45"/Users/da/Downloads/HowEvil/robert_mugabe.png8603542240#541"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/robert_mugabe.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/robert_mugabe.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/saddam_hussein.png saddam_hussein.png
-s306239735.931182
-e306239736.927647
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/saddam_hussein.png
-xsaddam_hussein.png
-lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/HowEvil.app/saddam_hussein.png saddam_hussein.png306239735#306239736#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/saddam_hussein.png8603195200#543"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/saddam_hussein.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/saddam_hussein.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/shoko_asahara.png shoko_asahara.png
-s306239737.914663
-e306239738.411057
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/shoko_asahara.png
-xshoko_asahara.png
-lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/HowEvil.app/shoko_asahara.png shoko_asahara.png306239737#306239738#0(0"0(0#0#45"/Users/da/Downloads/HowEvil/shoko_asahara.png8606509568#541"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/shoko_asahara.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/shoko_asahara.png0#
-
-CCopyPNGFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ted_bundy.png ted_bundy.png
-s306239734.269454
-e306239735.418550
-r1
-xCopyPNGFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ted_bundy.png
-xted_bundy.png
-lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/HowEvil.app/ted_bundy.png ted_bundy.png306239734#306239735#0(0"0(0#0#41"/Users/da/Downloads/HowEvil/ted_bundy.png8604010176#533"    cd /Users/da/Downloads/HowEvil    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/da/Downloads/HowEvil/ted_bundy.png /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ted_bundy.png0#
-
-CCpResource build/Debug-iphoneos/HowEvil.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
-s306239728.544211
-e306239728.671464
-r1
-xCpResource
-xbuild/Debug-iphoneos/HowEvil.app/ResourceRules.plist
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
-lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist306239728#306239728#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist5922070114188800000#458"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app0#
-
-CCpResource build/Debug-iphoneos/HowEvil.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
-r0
-
-CCreateUniversalBinary /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil normal "armv6 armv7"
-s306239750.939672
-e306239750.990824
-r1
-xCreateUniversalBinary
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil
-xnormal
-xarmv6 armv7
-lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/HowEvil.app/HowEvil normal "armv6 armv7"306239750#306239750#0(0"0(0#0#39"/Users/da/Downloads/HowEvil/armv6 armv78606246304#474"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil -output /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil0#
-
-CGenerateDSYMFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app.dSYM /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil
-s306239750.990945
-e306239751.196308
-r1
-xGenerateDSYMFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app.dSYM
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil
-lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/HowEvil.app.dSYM build/Debug-iphoneos/HowEvil.app/HowEvil306239750#306239751#0(0"0(0#0#68"/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil8604381792#329"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/HowEvil -o /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app.dSYM0#
-
-CLd /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil normal armv6
-s306239749.476545
-e306239750.191950
-r1
-xLd
-x/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil
-xnormal
-xarmv6
-lSLF07#2@110"Link /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil306239749#306239750#0(0"0(0#0#0"8605888384#826"    cd /Users/da/Downloads/HowEvil    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/da/Downloads/HowEvil/build/Debug-iphoneos -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -filelist /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv6/HowEvil0#
-
-CLd /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil normal armv7
-s306239750.730234
-e306239750.939536
-r1
-xLd
-x/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil
-xnormal
-xarmv7
-lSLF07#2@110"Link /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil306239750#306239750#0(0"0(0#0#0"8606447584#826"    cd /Users/da/Downloads/HowEvil    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/da/Downloads/HowEvil/build/Debug-iphoneos -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -filelist /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/Objects-normal/armv7/HowEvil0#
-
-CProcessInfoPlistFile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Info.plist HowEvil-Info.plist
-s306239728.590253
-e306239728.654449
-r1
-xProcessInfoPlistFile
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Info.plist
-xHowEvil-Info.plist
-lSLF07#2@26"Process HowEvil-Info.plist306239728#306239728#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/HowEvil-Info.plist8605791104#518"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HowEvil-Info.plist -genpkginfo /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/ResourceRules.plist -o /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/Info.plist0#
-
-CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-s306239745.978293
-e306239748.111220
-r1
-xProcessPCH
-x/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch.gch
-xHowEvil_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile HowEvil_Prefix.pch306239745#306239748#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/HowEvil_Prefix.pch8604590400#1512"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv7 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -c /Users/da/Downloads/HowEvil/HowEvil_Prefix.pch -o /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-bvgxlpztaiebbgekaaujniwiddsn/HowEvil_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-eyshffcbkonlbvbvbqiklspnggmn/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-s306239745.976041
-e306239747.999939
-r1
-xProcessPCH
-x/var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch.gch
-xHowEvil_Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile HowEvil_Prefix.pch306239745#306239748#0(0"0(0#0#46"/Users/da/Downloads/HowEvil/HowEvil_Prefix.pch8605777120#1512"    cd /Users/da/Downloads/HowEvil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-generated-files.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-own-target-headers.hmap -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-all-target-headers.hmap -iquote /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil-project-headers.hmap -F/Users/da/Downloads/HowEvil/build/Debug-iphoneos -I/Users/da/Downloads/HowEvil/build/Debug-iphoneos/include -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources/armv6 -I/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/DerivedSources -c /Users/da/Downloads/HowEvil/HowEvil_Prefix.pch -o /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-ffqmkakmfooxykamhuipmntdajmx/HowEvil_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/+m/+mMiLuhAGXmcpQSW310HTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HowEvil_Prefix-fqyshcufsswggpdfxxvzdighqcdk/HowEvil_Prefix.pch.gch HowEvil_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CProcessProductPackaging "/Users/da/Library/MobileDevice/Provisioning Profiles/0E000516-55DC-423D-BD99-BA259E570A3E.mobileprovision" /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision
-s306239751.196491
-e306239751.211524
-r1
-xProcessProductPackaging
-x/Users/da/Library/MobileDevice/Provisioning Profiles/0E000516-55DC-423D-BD99-BA259E570A3E.mobileprovision
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision
-lSLF07#2@189"ProcessProductPackaging "/Users/da/Library/MobileDevice/Provisioning Profiles/0E000516-55DC-423D-BD99-BA259E570A3E.mobileprovision" build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision306239751#306239751#0(0"0(0#0#85"/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision8603095776#398"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/da/Library/MobileDevice/Provisioning Profiles/0E000516-55DC-423D-BD99-BA259E570A3E.mobileprovision" -o /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app/embedded.mobileprovision0#
-
-CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent
-s306239751.253237
-e306239751.267734
-r1
-xProcessProductPackaging
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
-x/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent
-lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent306239751#306239751#0(0"0(0#0#90"/Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent8604151296#410"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/da/Downloads/HowEvil/build/HowEvil.build/Debug-iphoneos/HowEvil.build/HowEvil.xcent0#
-
-CTouch /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app
-s306239751.211635
-e306239751.253060
-r1
-xTouch
-x/Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app
-lSLF07#2@66"Touch /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app306239751#306239751#0(0"0(0#0#0"8605716736#242"    cd /Users/da/Downloads/HowEvil    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/da/Downloads/HowEvil/build/Debug-iphoneos/HowEvil.app0#
-
